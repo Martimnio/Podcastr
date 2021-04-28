@@ -29,7 +29,7 @@ Clone the project
 $ git clone https://github.com/Martimnio/Podcastr.git
 ```
 
-Install the dependencies nedded with Yarn
+Install the dependencies needed with Yarn
 
 ```html
 yarn --
